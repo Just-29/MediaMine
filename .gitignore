@@ -1,0 +1,17 @@
+# IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+config.py
+
+logs
+alembic
+.vscode
